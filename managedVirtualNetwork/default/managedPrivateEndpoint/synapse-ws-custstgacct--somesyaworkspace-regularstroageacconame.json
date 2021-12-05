@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--somesyaworkspace-regularstroageacconame",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/142a1ba9-4677-4e1e-b7c1-96baea282137/resourceGroups/RegualrSyanpseRG/providers/Microsoft.Storage/storageAccounts/regularstroageacconame",
+		"groupId": "dfs",
+		"fqdns": [
+			"regularstroageacconame.dfs.core.windows.net"
+		]
+	}
+}
